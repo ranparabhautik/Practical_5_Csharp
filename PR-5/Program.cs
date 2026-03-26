@@ -4,7 +4,7 @@
     {
         int[] arr = { 10, 50, 60, 30, 80 };
 
-        try
+        try // exception handling in the for loop as loop will throw the indexoutofrange Exception.
         {
             for (int i = 0; i < 6; i++) 
             {
