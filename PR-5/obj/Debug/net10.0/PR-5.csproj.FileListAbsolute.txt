@@ -1,0 +1,14 @@
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\bin\Debug\net10.0\PR-5.exe
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\bin\Debug\net10.0\PR-5.deps.json
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\bin\Debug\net10.0\PR-5.runtimeconfig.json
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\bin\Debug\net10.0\PR-5.dll
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\bin\Debug\net10.0\PR-5.pdb
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.AssemblyInfoInputs.cache
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.AssemblyInfo.cs
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.csproj.CoreCompileInputs.cache
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.dll
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\refint\PR-5.dll
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.pdb
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\PR-5.genruntimeconfig.cache
+C:\Users\bhautik.ranpara\source\repos\PR-5\PR-5\obj\Debug\net10.0\ref\PR-5.dll
